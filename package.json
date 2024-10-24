@@ -99,7 +99,7 @@
     "@types/jest": "29.5.12",
     "@types/micromatch": "4.0.7",
     "@types/mixpanel-browser": "2.49.0",
-    "@types/multer": "^1.4.11",
+    "@types/multer": "^1.4.12",
     "@types/node": "20.12.12",
     "@types/nodemailer": "6.4.15",
     "@types/react": "18.3.2",
