@@ -65,7 +65,7 @@
     "mixpanel-browser": "2.50.0",
     "multer": "^1.4.5-lts.1",
     "next": "14.2.3",
-    "next-auth": "4.24.7",
+    "next-auth": "4.24.9",
     "next-connect": "^1.0.0",
     "next-i18next": "15.3.0",
     "node-fetch": "^3.3.2",
